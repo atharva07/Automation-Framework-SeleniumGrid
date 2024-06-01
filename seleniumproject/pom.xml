@@ -12,7 +12,7 @@
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
-  <properties>
+    <properties>
         <selenium.java.version>4.21.0</selenium.java.version>
         <logback.version>1.4.14</logback.version>
         <webdriver.manager.version>5.7.0</webdriver.manager.version>
